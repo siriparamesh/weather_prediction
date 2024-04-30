@@ -9,3 +9,13 @@ Clean and graph data<br>
 Create a testing framework<br>
 Improve model accuracy<br>
 </h3>
+
+<h3> Local Setup <br>
+Installation <br>
+For the project, install the following locally:<br>
+
+JupyerLab <br>
+Python 3 <br>
+Python packages <br>
+pandas <br>
+scikit-learn</h3>
