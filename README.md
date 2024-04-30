@@ -12,10 +12,10 @@ Improve model accuracy<br>
 
 <h3> Local Setup <br>
 Installation <br>
-For the project, install the following locally:<br>
-
+For the project, install the following locally:<br> </h3>
+<h4>
 JupyerLab <br>
 Python 3 <br>
 Python packages <br>
 pandas <br>
-scikit-learn</h3>
+scikit-learn</h4>
